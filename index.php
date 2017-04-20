@@ -53,7 +53,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
 ♥Naan Sinsuvan♥
-</title><link rel="stylesheet" type="text/css"http://flambon.xtgem.com/fmb/grad_box.css"
+</title><link rel="stylesheet" type="text/css"/zex.css"
 
 </title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/grad_box.css" media="all,black.css"/><link rel="shortcut icon" href="">
 <?php
